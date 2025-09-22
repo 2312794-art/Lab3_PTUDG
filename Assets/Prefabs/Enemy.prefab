@@ -126,6 +126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Health
   health: 50
+  hitParticles: {fileID: 6259134016805287202, guid: 4107cd27a9f11724793fdfef82e03c4b, type: 3}
 --- !u!114 &-5685778949707014072
 MonoBehaviour:
   m_ObjectHideFlags: 0
