@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe9625255f579744bbad8600816df3c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DamageDealer
-  damage: 100
+  damage: 10
 --- !u!1 &7670061398724143755
 GameObject:
   m_ObjectHideFlags: 0
