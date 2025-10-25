@@ -10,7 +10,7 @@ public class AudioManager : MonoBehaviour
     [SerializeField] AudioClip damageClip;
     [SerializeField][Range(0, 1)] float damageVolume = 1f;
 
-    public static AudioManager instance;
+    static AudioManager instance;
 
     void Awake()
     {
